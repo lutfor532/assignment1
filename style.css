@@ -1,0 +1,69 @@
+#main{
+    color: red;
+}
+.half-width{
+    width: 38%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,hsl(224, 57%, 41%), hsl(145, 55%, 41%));
+    padding: 11px 21px;
+    border-radius: 6px;
+    color: white;
+    font-size: 700;
+}
+section{padding-bottom: 80px;
+    height: 500px;
+}
+#text-position{text-align: center;}
+span{color: seagreen;}
+.middel{
+    box-shadow: 12px 12px 45px hsl(0, 24%, 89%);
+    border-radius: 10px;
+    height: 68%;
+    background-color: #ffffff;
+
+}
+.thired-width{
+    width: 25%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+#stay{text-align: center;
+}
+#hello{text-align:center;}
+#social{
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 1px;
+}
+#go{background-image: url(Group_33094_1.png);
+    background-size: cover;
+    text-align: ;
+    border-radius: 20px;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;  
+    height: 30%;}
+#work{
+   padding: 60px;
+   color: lavender;
+   margin: 20px;
+}
+#let{position: absolute;
+    right: 350px;
+    padding: 40px;
+    color: #f7f7f7;
+    background-image: linear-gradient(45deg,rgb(164, 45, 85), rgb(162, 47, 57));
+}
+#copy{text-align: center;}
+  
