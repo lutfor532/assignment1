@@ -1,6 +1,17 @@
 #main{
     color: red;
 }
+a{
+    text-decoration: none;
+    color: #000000;
+    display: inline;
+    padding: 20px ;
+}
+li{
+    display: inline;
+}
+ul{text-align: right;}
+
 .half-width{
     width: 38%;
     float: left;
@@ -48,7 +59,6 @@ span{color: seagreen;}
 }
 #go{background-image: url(Group_33094_1.png);
     background-size: cover;
-    text-align: ;
     border-radius: 20px;
     width: 60%;
     margin-left: auto;
@@ -64,6 +74,7 @@ span{color: seagreen;}
     padding: 40px;
     color: #f7f7f7;
     background-image: linear-gradient(45deg,rgb(164, 45, 85), rgb(162, 47, 57));
+    border-radius: 50px;
 }
 #copy{text-align: center;}
   
